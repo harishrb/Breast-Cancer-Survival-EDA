@@ -14,7 +14,7 @@ Install missing dependencies using [pip](https://pypi.org/project/pip/).
 
 ## Dataset used
 Haberman's Cancer Survival dataset is used for this project. Dataset is publicly available on Kaggle.
-Source: Dataset: [Haberman's Survival Data Set](https://www.kaggle.com/gilsousa/habermans-survival-data-set)    
+Source: [Haberman's Survival Data Set](https://www.kaggle.com/gilsousa/habermans-survival-data-set)    
 
 ## Usage
 Run the jupyter notebook by typing ``jupyter notebook`` in terminal.
