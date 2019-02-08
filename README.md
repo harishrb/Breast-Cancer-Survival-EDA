@@ -17,7 +17,7 @@ Haberman's Cancer Survival dataset is used for this project. Dataset is publicly
 Source: [Haberman's Survival Data Set](https://www.kaggle.com/gilsousa/habermans-survival-data-set)    
 
 ## Usage
-Run the jupyter notebook by typing ``jupyter notebook`` in terminal.
+Clone the [repository](https://github.com/harishrb/Haberman-Cancer-Survival-EDA) and run ``jupyter notebook`` command in terminal.
 Install jupyter from [here](http://jupyter.readthedocs.io/en/latest/install.html).
 
 ## License
